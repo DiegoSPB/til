@@ -1,0 +1,12 @@
+{
+  "name": "til",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DiegoSPB/til.git",
+  "author": "DiegoSPB <diego.spb@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
